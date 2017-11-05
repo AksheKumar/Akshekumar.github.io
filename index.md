@@ -1,6 +1,6 @@
 ## Welcome to my Git hub webpage 
 
-##### I am a computer science student. pasionate about the paradigm shifts and new emerging technologies in the field of computer sciecen, to do something good for the society.
+##### I am a computer science student. passionate about the paradigm shifts and new emerging technologies in the field of computer science, to do something good for the society.
 
 ### Education 
 
