@@ -1,21 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to my Git hub webpage 
 
-You can use the [editor on GitHub](https://github.com/AksheKumar/Akshekumar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##### You can see all my git hub repositories here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
+#### Computer science at DHA suffa university (2014-2018) 
+#### Intermediate from RTM school ghotki (2012-2014)
+#### metriculation from RTM school ghotki (2010-2012)
+```projects 
+#### Medical management system in C language
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
+- Projects 
+
 - List
 
 1. Numbered
