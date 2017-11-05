@@ -18,3 +18,10 @@
 ##### context based spell checker in python language.
 ##### game rateings prediction using machine learning in python.
 ##### Driver sleep detection using image proccesing, machine learning and Facial expressions. 
+
+### Skills
+
+##### C/C++
+##### Photoshop 
+##### Techinical Report Writing 
+##### python 
